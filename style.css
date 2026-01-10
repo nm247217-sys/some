@@ -104,3 +104,56 @@ section button{
     color: #627382;
     margin: 16px 0 40px;
 }
+.chalange h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+}
+.chalange p{
+font-size: 16px;
+color: #627382;
+margin: 16px;
+}
+.btn2{
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    background-color: #30B868;
+    padding: 16px;
+    border: none;
+    border-radius: 5px;
+
+}
+.chalange{
+    text-align: center;
+    padding: 80px 40px;
+    background-color: #F7F6F2;
+    
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px;
+
+}
+.social h5{
+        color: #FFFFFF;
+        font-size: 20px;
+        
+
+
+}
+footer p{
+    font-size: 16px;
+    color: #FAFAFA;
+    padding: 30px 120px;
+    align-items: center;
+
+}
+footer{
+    background-color: #001931;
+    padding: 120px 120px 80px;
+    text-align: center;
+
+}
