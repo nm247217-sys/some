@@ -6,15 +6,7 @@ header{
     background-color: wheat;
     padding-top: 16px;
 }
-.btn{
-    background-color: green;
-    border: none;
-    padding: 12.5px 16px;
-    border-radius: 5px;
-    font-size: 13px;
-    font-weight: bold;
-    color: white;
-}
+
 nav{
     /* border: 1px solid aquamarine; */
     width: 71%;
@@ -156,4 +148,12 @@ footer{
     padding: 120px 120px 80px;
     text-align: center;
 
+}
+.bg p{
+    margin: 16px 0 32px;
+    line-height: 24px;
+
+}
+.bg{
+    padding: 115px 0 179px;
 }
