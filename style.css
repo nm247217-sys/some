@@ -83,3 +83,24 @@ section button{
     text-align: center;
     margin-top: 60px;
 }
+.solution{
+    font-size: 16px;
+    color: #469165;
+}
+.noyon{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    margin: 0 120px;
+    justify-content: center;
+}
+.k{
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+}
+.noyon p{
+    font-size: 16px;
+    color: #627382;
+    margin: 16px 0 40px;
+}
